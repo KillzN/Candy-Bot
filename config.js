@@ -6,7 +6,7 @@ import moment from 'moment-timezone';
 
 global.botnumber = ""
 global.confirmCode = ""
-global.authFile = `KillzNSession`;
+global.authFile = `kimmSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
@@ -16,46 +16,46 @@ global.isBaileysFail = false
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', false],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true], 
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328', '👑 KillzN - Creador 👑', true], 
-  ['56983073328', '👑 KillzN - Creador 👑', true],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],  
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'], 
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328'],
-  ['56983073328']
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', false],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true], 
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837', '👑 kimm - Creador 👑', true], 
+  ['56927169837', '👑 kimm - Creador 👑', true],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'], 
+  ['56927169837'],  
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'], 
+  ['56927169837'], 
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'], 
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837'],
+  ['56927169837']
 ];
 
-global.suittag = ['56983073328'];
-global.prems = ['56983073328'];
+global.suittag = ['56927169837'];
+global.prems = ['56927169837'];
 
 // API
 global.BASE_API_DELIRIUS = "https://deliriusapi-official.vercel.app";
@@ -100,7 +100,7 @@ global.mysticbot = 'https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '56983073328';
+global.nomorown = '56927169837';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
